@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hibaalavi3
-- 👀 I’m interested in learning new things 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on teaching me more
+- 👀 Interested in learning new things 
+- 🌱 Currently learning python
+- 💞️ Looking to collaborate on teaching me more
 - 📫 How to reach me - hibaalavi3@gmail.com
 
 <!---
