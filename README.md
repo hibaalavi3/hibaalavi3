@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @hibaalavi3
-- 👀 Interested in learning new things 
-- 🌱 Currently learning python
-- 💞️ Looking to collaborate on teaching me more
-- 📫 How to reach me - hibaalavi3@gmail.com
+- 👋 Hi, I’m Hiba Alavi
+
+- Passionate mathematician and data storyteller.
+
+- Welcome to my Github!
+
+- Always learning, always growing. Connect with me and let's explore the endless possibilities together!
 
 <!---
 hibaalavi3/hibaalavi3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
