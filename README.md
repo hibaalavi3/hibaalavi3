@@ -30,10 +30,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 
-### 📈 GitHub Stats
-![Hiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=hibaalavi3&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hibaalavi3&layout=compact)
-
 
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/hiba-alavi3/))
