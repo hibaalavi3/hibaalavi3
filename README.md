@@ -31,8 +31,9 @@
 
 
 ### 📈 GitHub Stats
-![Hiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=HibaAlavi&show_icons=true&theme=radical&token=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)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HibaAlavi&layout=compact)
+![Hiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=hibaalavi3&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hibaalavi3&layout=compact)
+
 
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/hiba-alavi3/))
