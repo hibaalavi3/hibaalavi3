@@ -31,7 +31,7 @@
 
 
 ### 📈 GitHub Stats
-![Hiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=HibaAlavi&show_icons=true&theme=radical)
+![Hiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=HibaAlavi&show_icons=true&theme=radical&token=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)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HibaAlavi&layout=compact)
 
 ### 🌐 Connect with me
